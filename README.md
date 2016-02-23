@@ -4,9 +4,12 @@
 
 Repozytorium zawiera następujące materiały:
 
-* formularze/  -- Formularze zgłoszeniowe
-* info/        -- Informacje związane z konferencją (dojazd, możliwości zakwaterowania itd.)
-* plakaty/
+Folder          | Opis
+----------------|----------------------------
+formularze/     | Formularze zgłoszeniowe
+info/           | Informacje związane z konferencją (dojazd, możliwości zakwaterowania itd.)
+plakaty/        |
+
 
 ### Licencja
 Materiały zawarte w repozytorium zostały przekazane do domeny publicznej i rozpowszechniane są na mocy licencji CC0 1.0 Universal. Zob. plik: LICENSE.
