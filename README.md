@@ -9,4 +9,4 @@ Repozytorium zawiera następujące materiały:
 * plakaty/
 
 ### Licencja
-Materiały zawarte w repozytorium zostały przekazane do domeny publicznej.  Zob. plik: LICENSE lub LICENCE-pl.
+Materiały zawarte w repozytorium zostały przekazane do domeny publicznej i rozpowszechniane są na mocy licencji CC0 1.0 Universal. Zob. plik: LICENSE.
