@@ -7,6 +7,7 @@ Repozytorium zawiera następujące materiały:
 Folder          | Opis
 ----------------|----------------------------
 formularze/     | Formularze zgłoszeniowe
+program/        | Program, zaproszenie etc.
 info/           | Informacje związane z konferencją (dojazd, możliwości zakwaterowania itd.)
 plakaty/        |
 
