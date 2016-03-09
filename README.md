@@ -1,4 +1,4 @@
-# OSKT IV, Wrocław, 26-29 maja 2016
+# IV OSKT, Wrocław, 26-29 maja 2016
 
 ## Materiały dla uczestników konferencji
 
@@ -8,7 +8,6 @@ Folder          | Opis
 ----------------|----------------------------
 formularze/     | Formularze zgłoszeniowe
 program/        | Program, zaproszenie etc.
-info/           | Informacje związane z konferencją (dojazd, możliwości zakwaterowania itd.)
 plakaty/        |
 
 
